@@ -1,0 +1,7 @@
+\cleardoublepage\phantomsection\addcontentsline{toc}{section}{\bf {PRÓLOGO}}
+\section*{\centerline {PRÓLOGO}}
+\markboth{PRÓLOGO}{}
+
+\lipsum[6] \\ [2mm]
+\lipsum[10] 
+

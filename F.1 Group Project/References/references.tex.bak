@@ -1,0 +1,5 @@
+% Referencias
+\renewcommand\refname{\large\textbf{REFERENCIAS BIBLIOGRÁFICAS}}
+
+%\bibliographystyle{unsrtnat}
+\bibliography{References/references.bib}

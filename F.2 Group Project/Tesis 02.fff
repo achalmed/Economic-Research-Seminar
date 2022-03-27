@@ -1,0 +1,20 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[!h]
+\centering
+\includegraphics[scale=1]{E. Imágenes/Anexos/Anexo_1.pdf}
+\vspace{-8 mm}
+\caption[]{\centering\footnotesize Histéresis del DFV del edificio del aeropuerto Jorge Chavez.}
+\label{Anexo_1}
+\end{figure} 
+
+
+\begin{figure}[!h]
+\centering
+\includegraphics[scale=1]{E. Imágenes/Anexos/Anexo_2.pdf}
+\vspace{-8 mm}
+\caption[]{\centering\footnotesize Histéresis del DH-SLB del edificio del aeropuerto Jorge Chavez.}
+\label{Anexo_2}
+\end{figure} 
+
+

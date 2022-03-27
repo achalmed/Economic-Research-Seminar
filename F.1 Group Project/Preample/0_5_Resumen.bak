@@ -1,0 +1,6 @@
+\cleardoublepage\phantomsection\addcontentsline{toc}{section}{\bf RESUMEN}
+\section*{\centerline {RESUMEN}}
+%\markboth{RESUMEN}{}
+
+\lipsum[5] 
+

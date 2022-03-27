@@ -1,0 +1,79 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\bf RESUMEN}{\es@scroman {vi}}{section*.4}%
+\contentsline {section}{\bf {ABSTRACT}}{\es@scroman {vii}}{section*.6}%
+\contentsline {section}{\bf {PRÓLOGO}}{\es@scroman {viii}}{section*.8}%
+\contentsline {section}{\numberline {I}\large PLANTEAMIENTO DEL PROBLEMA}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Enunciado del problema}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Formulación del problema}{4}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Problema general}{4}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Problemas específicos }{4}{subsubsection.1.2.2}%
+\contentsline {section}{\numberline {II}\large OBJETIVOS}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Objetivo general}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Objetivos específicos}{5}{subsection.2.2}%
+\contentsline {section}{\numberline {III}\large JUSTIFICACIÓN}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Justificación teórica}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Justificación practica}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Justificación metodológica}{6}{subsection.3.3}%
+\contentsline {section}{\numberline {IV}\large MARCO TEÓRICO}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Marco histórico}{7}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Enfoque Subjetivo}{7}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Enfoque Relativo}{7}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}Enfoque absoluto}{7}{subsubsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.2}Marco referencial}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Sistema teórico}{9}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Desigualdad Socio económica y la Pobreza}{9}{subsubsection.4.3.1}%
+\contentsline {paragraph}{Desigualdad socio económica}{9}{section*.13}%
+\contentsline {paragraph}{La Pobreza}{9}{section*.14}%
+\contentsline {paragraph}{Medición de la pobreza}{10}{section*.15}%
+\contentsline {subparagraph}{\relax }{10}{section*.16}%
+\contentsline {subparagraph}{\relax }{10}{section*.17}%
+\contentsline {subparagraph}{\relax }{10}{section*.18}%
+\contentsline {subsubsection}{\numberline {4.3.2}Empleo e Índice de Desarrollo Humano (IDH)}{11}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Índice de Theilen y grado de pobreza}{12}{subsubsection.4.3.3}%
+\contentsline {paragraph}{Índice de Theilen}{12}{section*.19}%
+\contentsline {paragraph}{Grado de pobreza}{12}{section*.20}%
+\contentsline {subparagraph}{\relax }{12}{section*.21}%
+\contentsline {subparagraph}{\relax }{12}{section*.22}%
+\contentsline {subparagraph}{\relax }{12}{section*.23}%
+\contentsline {subsubsection}{\numberline {4.3.4}Desempleo e Índice de Gini}{12}{subsubsection.4.3.4}%
+\contentsline {paragraph}{Desempleo}{12}{section*.24}%
+\contentsline {paragraph}{Clases de desempleo}{13}{section*.25}%
+\contentsline {subparagraph}{\relax }{13}{section*.26}%
+\contentsline {subparagraph}{\relax }{13}{section*.27}%
+\contentsline {subparagraph}{\relax }{13}{section*.28}%
+\contentsline {paragraph}{Índice de Gini}{13}{section*.29}%
+\contentsline {subsection}{\numberline {4.4}Marco conceptual}{13}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Desigualdad socioeconómica}{13}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}La Pobreza}{13}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}Empleo}{14}{subsubsection.4.4.3}%
+\contentsline {subsubsection}{\numberline {4.4.4}Índice de Desarrollo Humano (IDH)}{14}{subsubsection.4.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.5}Índice de Theilen}{14}{subsubsection.4.4.5}%
+\contentsline {subsubsection}{\numberline {4.4.6}Grado de pobreza}{14}{subsubsection.4.4.6}%
+\contentsline {paragraph}{Extremo pobre}{14}{section*.30}%
+\contentsline {paragraph}{Pobre}{14}{section*.31}%
+\contentsline {subsubsection}{\numberline {4.4.7}Desempleo}{15}{subsubsection.4.4.7}%
+\contentsline {subsubsection}{\numberline {4.4.8}Índice de Gini}{15}{subsubsection.4.4.8}%
+\contentsline {section}{\numberline {V}\large HIPÓTESIS}{16}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Hipótesis general}{16}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Hipótesis especifica}{16}{subsection.5.2}%
+\contentsline {section}{\numberline {VI}\large VARIABLES E INDICADORES}{17}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Desigualdad socio-económica y dimensiones}{17}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Variable causa}{17}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Variable efecto}{17}{subsubsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.2}Operacionales de variables y dimensiones}{17}{subsection.6.2}%
+\contentsline {section}{\numberline {VII}\large METODOLOGÍA}{18}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Tipo y nivel de investigación}{18}{subsection.7.1}%
+\contentsline {subsubsection}{\numberline {7.1.1}Tipo de investigación}{18}{subsubsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.2}Nivel de investigación}{18}{subsubsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.2}Población y muestra}{18}{subsection.7.2}%
+\contentsline {subsubsection}{\numberline {7.2.1}Población}{18}{subsubsection.7.2.1}%
+\contentsline {subsubsection}{\numberline {7.2.2}Muestra}{18}{subsubsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.3}Fuentes de información}{18}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Diseño de investigación}{19}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Técnicas e instrumentos}{19}{subsection.7.5}%
+\contentsline {subsubsection}{\numberline {7.5.1}Técnicas}{19}{subsubsection.7.5.1}%
+\contentsline {subsubsection}{\numberline {7.5.2}Instrumentos}{19}{subsubsection.7.5.2}%
+\contentsline {section}{\numberline {VIII}\large \textbf {REFERENCIAS BIBLIOGRÁFICAS}}{20}{section.8}%
+\contentsline {section}{\bf \large CONCLUSIONES}{21}{section*.33}%
+\contentsline {section}{\bf \large RECOMENDACIONES}{22}{section*.35}%

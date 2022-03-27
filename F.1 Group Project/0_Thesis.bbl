@@ -1,0 +1,58 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Modigliani%
+}{%
+Modigliani%
+}{%
+{\protect \APACyear {1998}}%
+}]{%
+Modigliani1998}
+\APACinsertmetastar {%
+Modigliani1998}%
+\begin{APACrefauthors}%
+Modigliani, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An economists' Manifesto on unemployment in the European
+  Union,} {An economists' manifesto on unemployment in the european
+  union,}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{8}{}{163-187}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/s0926-6437(99)00006-2} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ravallion%
+, Datt%
+\BCBL {}\ \BBA {} Walle%
+}{%
+Ravallion%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1991}}%
+}]{%
+Ravallion1991}
+\APACinsertmetastar {%
+Ravallion1991}%
+\begin{APACrefauthors}%
+Ravallion, M.%
+, Datt, G.%
+\BCBL {}\ \BBA {} Walle, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1991}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {QUANTIFYING ABSOLUTE POVERTY IN THE DEVELOPING WORLD}
+  {Quantifying absolute poverty in the developing world}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{37}{}{345-361}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1475-4991.1991.tb00378.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

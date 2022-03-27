@@ -1,0 +1,16 @@
+mktexpk --mfmode / --bdpi 600 --mag 1+0/600 --dpi 600 ts1-lmr12
+mktexpk --mfmode / --bdpi 600 --mag 1+0/600 --dpi 600 cmr10
+mktextfm ts1-lmr12
+mktextfm cmr10
+mktexpk --mfmode / --bdpi 600 --mag 1+0/600 --dpi 600 ts1-lmr12
+mktexpk --mfmode / --bdpi 600 --mag 1+0/600 --dpi 600 cmr10
+mktextfm ts1-lmr12
+mktextfm cmr10
+mktexpk --mfmode / --bdpi 600 --mag 1+0/600 --dpi 600 ts1-lmr12
+mktexpk --mfmode / --bdpi 600 --mag 1+0/600 --dpi 600 cmr10
+mktextfm ts1-lmr12
+mktextfm cmr10
+mktexpk --mfmode / --bdpi 600 --mag 1+0/600 --dpi 600 ts1-lmr12
+mktexpk --mfmode / --bdpi 600 --mag 1+0/600 --dpi 600 cmr10
+mktextfm ts1-lmr12
+mktextfm cmr10
